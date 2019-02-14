@@ -25,7 +25,7 @@ public class Practice {
     
     public static void main(String[] args) throws Exception {
         // TODO code application logic here
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        
         
         
          int[][] triangle = {  
